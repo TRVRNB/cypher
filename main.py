@@ -6,6 +6,7 @@ print("cypher ______ -> returns cyphered")
 print("decypher ______ -> returns decyphered")
 print("quit -> quits program")
 
+# U @".S_)7COEX6}fD>;"I#7o7n
 
 def change_key(new_key):
 	# change the key and print error messages
@@ -38,4 +39,5 @@ while True:
 			change_key(command)
 		elif command == "quit":
 			break
+
 			
